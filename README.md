@@ -1,6 +1,7 @@
 # Portfolio
 
 Personal Website: https://joshk710.github.io
+
 GitHub Repository: https://github.com/JoshK710/JoshK710.github.io.git
 
 My personal website has a card that talks a little bit about me and my background. I also have sections that include resume information, hobbies, and other projects that I've worked on.
@@ -8,6 +9,7 @@ This project uses vanilla html, javascript, and foundation css. Additionally, I 
 as the repository. This was one of the first projects that I worked on in my web development class and I learned a lot from trying to play around with different layouts using css.
 
 Dynamic Web Server: https://admirable-trees.onrender.com
+
 GitHub Repository: https://github.com/JoshK710/dynamic-webserver
 
 This dynamic webserver is hosted on render.com so the first link is how to access the project, however, the link takes time to load because I opted for the cheapest version of hosting 
